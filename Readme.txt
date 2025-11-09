@@ -1,4 +1,4 @@
-Thank you for reviewing the supplemental materials for our research paper. Below are the instructions for running the IPython notebooks.
+Below are the instructions for running the IPython notebooks.
 
 Setup Instructions:
 
@@ -12,7 +12,7 @@ Setup Instructions:
 
     Running the notebook:
         Cells in the notebook can be executed one at a time by selecting a cell and clicking the "Run" button, or by pressing Shift + Enter.
-        Make sure to run the cells in order to ensure the code executes correctly, especially for loading data or setting variables.
+        Please make sure that you run the cells to make sure the code executes correctly, especially when loading data or setting variables.
 
 Notes:
 
